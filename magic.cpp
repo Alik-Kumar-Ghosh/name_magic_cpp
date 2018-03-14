@@ -157,7 +157,7 @@ int main(){
         }
     }
     cout<<"______________________________________"<<endl<<endl;
-    cout<<"If you like it!!! Please hit one like. and follow me.©® made by akg"<<endl;
+    cout<<"If you like it!!! Please hit one like. and follow me.©® made by akg{alik kumar ghosh}"<<endl;
     cout<<"______________________________________"<<endl<<endl;
     
    
